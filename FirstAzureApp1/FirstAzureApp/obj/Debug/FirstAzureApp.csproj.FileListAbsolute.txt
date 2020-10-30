@@ -1,0 +1,7 @@
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\bin\Debug\FirstAzureApp.exe.config
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\bin\Debug\FirstAzureApp.exe
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\bin\Debug\FirstAzureApp.pdb
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\obj\Debug\FirstAzureApp.csprojAssemblyReference.cache
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\obj\Debug\FirstAzureApp.csproj.CoreCompileInputs.cache
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\obj\Debug\FirstAzureApp.exe
+F:\LTI\Training\DevOps\FirstProject\FirstAzureApp1\FirstAzureApp\obj\Debug\FirstAzureApp.pdb

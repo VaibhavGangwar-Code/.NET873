@@ -11,7 +11,7 @@ namespace FirstAzureApp
         static void Main()
 
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello vaibhav...be the hero in a gang war");
             Console.Read();
 
         }

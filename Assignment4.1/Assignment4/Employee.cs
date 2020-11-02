@@ -38,7 +38,7 @@ namespace Assignment4
         }
         static void Main()
         {
-            ParttimeEmployee ptemployee = new ParttimeEmployee(10662951, "Vaibhav", 999.99f, 8.5f);
+            ParttimeEmployee ptemployee = new ParttimeEmployee(10662951, "Manoj", 999.99f, 8.5f);
             ptemployee.DisplayDetails();
             Console.Read();
 
